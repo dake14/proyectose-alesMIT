@@ -1,0 +1,23 @@
+# Ocultar entorno virtual Python
+.venv/
+venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config de VS Code
+.vscode/
+
+# Entornos con pipenv/poetry
+Pipfile.lock
+poetry.lock
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de IDE
+.idea/
